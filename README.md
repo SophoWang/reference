@@ -1,7 +1,7 @@
 ## 内核
 
 ## riscv参考资料
-- [opensbi](https://github.com/riscv/opensbi)已支持ariaen FPGA
+- [opensbi](https://github.com/riscv/opensbi)已支持ariane FPGA
   - 本次[commit](https://github.com/riscv/opensbi/commit/b44e844880d05c14ea90604c8d2f4d07878a18b9)支持
 
 
