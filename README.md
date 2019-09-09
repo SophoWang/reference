@@ -7,7 +7,7 @@
 
 ## 设备树
 - [elinux.org]()的设备树资料
-  - <https://elinux.org/Device_Tree_Linux>
+  - [<https://elinux.org/Device_Tree_Linux>](https://elinux.org/Device_Tree_Linux)
 - 设备debug
   - 一个[pdf](https://elinux.org/images/0/04/Dt_debugging_elce_2015_151006_0421.pdf)，有介绍设备树在内核的处理过程及与驱动的binding过程 
 
