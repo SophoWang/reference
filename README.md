@@ -11,3 +11,5 @@
 - 设备debug
   - 一个[pdf](https://elinux.org/images/0/04/Dt_debugging_elce_2015_151006_0421.pdf)，有介绍设备树在内核的处理过程及与驱动的binding过程 
 
+## gdb
+(gdb调试)[gdb-debug.md]
