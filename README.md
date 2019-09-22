@@ -15,5 +15,5 @@
 [gdb调试](gdb-debug.md)
 
 ## genesys2 
-[start](https://reference.digilentinc.com/reference/programmable-logic/genesys-2/start)
-[Genesys 2 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/genesys-2/reference-manual)
+- [start](https://reference.digilentinc.com/reference/programmable-logic/genesys-2/start)
+- [Genesys 2 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/genesys-2/reference-manual)
