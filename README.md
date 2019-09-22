@@ -13,3 +13,6 @@
 
 ## gdb
 [gdb调试](gdb-debug.md)
+
+## genesys2 
+[Genesys 2 Reference Manual](https://reference.digilentinc.com/reference/programmable-logic/genesys-2/reference-manual)
